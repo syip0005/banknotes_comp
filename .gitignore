@@ -1,2 +1,4 @@
-/Dataset/
 /Dataset_Categorised/
+/.vscode
+/__pycache__
+__pycache__
